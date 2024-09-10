@@ -14,13 +14,13 @@ function App() {
     <div className="App">
       <Header />
       <Routes>
-        <Route path="/Home" element={<Home />} />
+        {/* <Route path="/Home" element={<Home />} />
         <Route path="/Man" element={<Man />} />
         <Route path="/Woman" element={<Woman />} />
         <Route path="/Admin" element={<Admin />} />
         <Route path="/Products" element={<Products />} />
         <Route path="/Search" element={<Search />} />
-        <Route path="/Basket" element={<Basket />} />
+        <Route path="/Basket" element={<Basket />} /> */}
       </Routes>
     </div>
   );
